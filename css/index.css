@@ -1,3 +1,7 @@
+body
+{
+  font-family: 'Nanum Square';
+}
 #footer-strong-text
 {
  font-size: 15px;
@@ -38,6 +42,16 @@ font-weight: 600;
 {
   float:right;
 }
+#photo-title
+{
+  padding: 5px 19px;
+  font-size: 20px;
+  font-weight: 600;
+}
+#photo-explain
+{
+  font-size: 15px;
+}
 a.middle
 {
     color: #2980b9;
@@ -63,8 +77,4 @@ a.middle:hover:before
 {
   visibility: visible;
   transform: scaleX(1);
-}
-body
-{
-  font-family: 'Nanum Square';
 }
