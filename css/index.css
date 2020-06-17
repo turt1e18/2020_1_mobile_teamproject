@@ -51,6 +51,7 @@ font-weight: 600;
 #photo-explain
 {
   font-size: 15px;
+  position: absolute;
 }
 a.middle
 {
