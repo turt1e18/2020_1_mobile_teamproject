@@ -12,6 +12,6 @@
  2020/06/19 - errno(#1) 패치 완료 + page3 제작 중 <br>
  2020/06/20 - page 3 제작 완료 (사진 추가해야함) + css js 최종 확인 완료 + 무료 호스팅 도메인 서버 구하는 중 <br>
  2020/06/20 - dothome 호스팅 이용 + http://pk0820.dothome.co.kr/index.html <br>
- 2020/06/20 - index.html 사진 수정 
+ 2020/06/20 - index.html 사진 해상도 조정 중(축소) + 모바일 환경에서 diff back3 사진 깨짐 해결 중(div 재작업 필요) <br>
  
  현재 작동 중
