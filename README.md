@@ -11,4 +11,7 @@
  2020/06/19 - page 4 제작 - rss feed 추가해서 보안뉴스 크롤링 + owasp 2017 top 10 업데이트 <br>
  2020/06/19 - errno(#1) 패치 완료 + page3 제작 중 <br>
  2020/06/20 - page 3 제작 완료 (사진 추가해야함) + css js 최종 확인 완료 + 무료 호스팅 도메인 서버 구하는 중 <br>
- 2020/06/20 - ...
+ 2020/06/20 - dothome 호스팅 이용 + http://pk0820.dothome.co.kr/index.html <br>
+ 2020/06/20 - index.html 사진 수정 
+ 
+ 현재 작동 중
