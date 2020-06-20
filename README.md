@@ -13,5 +13,7 @@
  2020/06/20 - page 3 제작 완료 (사진 추가해야함) + css js 최종 확인 완료 + 무료 호스팅 도메인 서버 구하는 중 <br>
  2020/06/20 - dothome 호스팅 이용 + http://pk0820.dothome.co.kr/index.html <br>
  2020/06/20 - index.html 사진 해상도 조정 중(축소) + 모바일 환경에서 diff back3 사진 깨짐 해결 중(div 재작업 필요) <br>
- 2020/06/20 - index.html 모바일 사진 해상도 조정 완료 + diif3 div 재 작업 완료 + index_3_1~4 위치 조정 중 <br>
+ 2020/06/20 - index.html 모바일 사진 해상도 조정 완료 + diif3 div 재 작업 완료 + index_3_1~4 위치 조정 완료 <br>
+ 2020/06/20 - 1280px 이상의 모니터, 1280 이하의 PC, 테블릿, Mobile 등 접속 테스트 완료 이상없음 <br>
+ 2020/06/20 - 적용할만한 js가 있는지 확인 중<br>
  현재 작동 중 -> http://pk0820.dothome.co.kr/index.html
